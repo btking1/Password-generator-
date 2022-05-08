@@ -15,5 +15,5 @@ https://btking1.github.io/Password-generator-/
 ## Contribution
 Made with ❤️ by Booker King
 
-![ScreenShot](pass-gen-screenshot.png)
+![ScreenShot](https://github.com/btking1/Password-generator-/blob/main/pass-gen-screenshoot.png)
 
