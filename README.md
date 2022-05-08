@@ -12,8 +12,7 @@ A website that offers 8-128 character long password
 ##Website
 https://btking1.github.io/Password-generator-/
 
-## Contribution
-Made with ❤️ by Booker King
-
 ![ScreenShot](https://github.com/btking1/Password-generator-/blob/main/pass-gen-screenshoot.png)
 
+## Contribution
+Made with ❤️ by Booker King
