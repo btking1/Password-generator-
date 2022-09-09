@@ -1,6 +1,6 @@
 # password-generator
 
-##Purpose
+## Purpose
 A website that offers 8-128 character long password 
 (including numbers and special characters) 
 
@@ -9,7 +9,7 @@ A website that offers 8-128 character long password
 *CSS
 *Javascript
 
-##Website
+## Website
 https://btking1.github.io/Password-generator-/
 
 ![ScreenShot](https://github.com/btking1/Password-generator-/blob/main/pass-gen-screenshoot.png)
